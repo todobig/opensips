@@ -9,3 +9,4 @@ bash for opensips installation on debian 12 (bookworm)
 
 ``` opensips -f /etc/opensips/opensips.cfg -D -E ```
 
+``` opensips -f /etc/opensips/opensips.cfg -D ```
